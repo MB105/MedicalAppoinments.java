@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="ProgrammingExam-MedicalAppointments">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgrammingExam_MedicalAppointments</output-path>
+    <root id="root" />
+  </artifact>
+</component>
